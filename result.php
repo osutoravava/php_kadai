@@ -1,2 +1,2 @@
-こんにちは、<?php echo htmlspecialchars($_GET['name']); ?>さん。
-あなたのメールアドレスは、<?php echo $_GET['mail']; ?> です。
+こんにちは、<?php echo htmlspecialchars($_POST['name']); ?>さん。
+あなたのメールアドレスは、<?php echo $_POST['mail']; ?> です。
