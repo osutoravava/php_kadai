@@ -8,10 +8,10 @@
 
 </head>
 <body>
-<form action="result.php" method="get">
- 名前: <input type="text" name="name" />
- メールアドレス: <input type="email" name="mail" />
- <input type="submit" />
+  <form action="result.php" method="get">
+    名前: <input type="text" name="name" />
+    メールアドレス: <input type="email" name="mail" />
+    <input type="submit" />
 </form>
 
 </body>
